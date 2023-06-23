@@ -8,4 +8,4 @@ O resultado final ficou muito elegante 👌 e reproduziu exatamente a proposta d
 <img src="relogio.PNG" alt="relogio" width="280px" >
 
 
-Dêêm uma olhadinha na dinâmica do projeto em funcionamento -->  Relógio 🕙
+Dêêm uma olhadinha na dinâmica do projeto em funcionamento -->  <a href="https://brianmduarte.github.io/projeto_relogio/" target="_blank">Relógio 🕙 </a>
